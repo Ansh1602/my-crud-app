@@ -149,5 +149,5 @@ To send emails from your Gmail using Nodemailer, follow these steps:
 3. **Access the Application**: Open `http://localhost:3000` in your browser.
 
 Now you can manage contacts, perform CRUD operations, and send contact information via email.
-```
+
 
