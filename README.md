@@ -151,4 +151,3 @@ To send emails from your Gmail using Nodemailer, follow these steps:
 Now you can manage contacts, perform CRUD operations, and send contact information via email.
 ```
 
-Copy the above content into a `README.md` file in your project's root directory. Make sure to update any placeholders with your specific project details. This documentation will help anyone working with your project to set it up and understand its structure.
